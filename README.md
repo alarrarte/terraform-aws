@@ -1,4 +1,4 @@
 # terraform-aws
 
 
-AWS course labs while trying to practise Terraform
+AWS course labs while trying to practice Terraform
